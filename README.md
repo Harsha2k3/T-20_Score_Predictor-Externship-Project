@@ -1,6 +1,6 @@
 # T20 Totalitarian: Mastering Score Predictions
 
----
+--- 
 
 ## Project Description and Workflow
 
