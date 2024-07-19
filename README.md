@@ -15,7 +15,7 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 - **Feature Selection:** Identify the most relevant features for the prediction model. This can be done using techniques such as correlation analysis, feature importance ranking, and domain knowledge.
 
-- **Model Training:** Train a Linear Regression, Random Forest Regression and XGBRegression models using the preprocessed data and the selected features. The XBGRegressor gives the maximum R2 Score.So, we choose XGBRegressor as main model.The XGBoost model is a gradient boosting algorithm that uses decision trees as base learners.
+- **Model Training:** Train a Linear Regression, Random Forest Regression and XGBRegression models using the preprocessed data and the selected features. The XBGRegressor gives the maximum R2 Score.So, we choose XGBRegressor as main model and we got an accuracy about 98.6%. The XGBoost model is a gradient boosting algorithm that uses decision trees as base learners.
 
 - **Model Evaluation:** Evaluate the performance of the XGBoost model using metrics such as mean absolute error, mean squared error, and R-squared.
 
