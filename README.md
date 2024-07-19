@@ -53,3 +53,6 @@ To get started with this project, follow these steps:
 - Vali Sai Yaswanth Reddy
 - Mamidipaka Sri harsha
 - Tummala Nikhil Phaneendra
+
+## Contact :
+- For any inquiries or questions regarding the T-20 Score Predictor, please reach out to harshamamidipaka2003@gmail.com
