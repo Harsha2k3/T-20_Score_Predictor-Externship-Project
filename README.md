@@ -26,12 +26,6 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 ## Website:-
 ### [T20 Score Predictor](https://t-20-score-predictor-i3ge.onrender.com/)
 
-#### Developed By :
-- Manne Girish Chowdary
-- Vali Sai Yaswanth Reddy
-- Mamidipaka Sri harsha
-- Tummala Nikhil Phaneendra
-
 ## Installation
 
 To get started with this project, follow these steps:
@@ -53,3 +47,9 @@ To get started with this project, follow these steps:
   ```bash
   python main.py
   ```
+
+## Developed By :
+- Manne Girish Chowdary
+- Vali Sai Yaswanth Reddy
+- Mamidipaka Sri harsha
+- Tummala Nikhil Phaneendra
