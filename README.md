@@ -23,9 +23,7 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 - **Deployment:** Deploy the XGBoost model as a web application on Render.
 
-## Website Overview:-
-Check the model by clicking on the below link  
-For better Expereince adjust the screen size to 67%
+## Website:-
 ### [T20 Score Predictor](https://t-20-score-predictor-i3ge.onrender.com/)
 
 #### Developed By :
