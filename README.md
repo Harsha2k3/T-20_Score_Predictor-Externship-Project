@@ -21,7 +21,7 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 - **Prediction:** Use the trained and optimized XGBoost model to predict the total runs scored by a team in a T20 cricket match based on the relevant features.
 
-- **Deployment:** Deploy the XGBoost model as a web application on Herokuapp.
+- **Deployment:** Deploy the XGBoost model as a web application on Render.
 
 ## Website Overview:-
 Check the model by clicking on the below link  
